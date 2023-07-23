@@ -20270,4 +20270,20 @@ disabled look for disabled choices in the results dropdown
 header{
 	background-color: transparent !important;
 }
-  
+
+
+
+
+#contacts{
+	padding-bottom:40px !important;
+}
+
+#menu {
+	position: absolute;
+	padding: 10px;
+	left: 0%;
+	font-size: 20px;
+	z-index: 1;
+	color: #fff;
+	text-align: center;
+}
